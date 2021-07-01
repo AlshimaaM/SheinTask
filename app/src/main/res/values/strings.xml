@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SheinTask</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Category</string>
+    <string name="title_notifications">Saved</string>
+    <string name="title_more">More</string>
+</resources>
